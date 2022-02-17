@@ -1,0 +1,121 @@
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\MySql.Data.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\Google.Protobuf.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\Zstandard.Net.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\Renci.SshNet.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\System.Buffers.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\MySql.Data.xml
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\BusServer.csprojAssemblyReference.cache
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\CardGame.ServerForm.resources
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\BusServer.csproj.GenerateResource.cache
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\BusServer.csproj.CoreCompileInputs.cache
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\BusServer.csproj.CopyComplete
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\BusServer.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\BusServer.exe
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\bin\Debug\BusServer.pdb
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\BusServer.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\BusServer.Properties.Resources.resources
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\BusServer.exe
+C:\Users\JGH\source\repos\BusSeatReservation\BusServer\obj\Debug\BusServer.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\BusServer.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\BusServer.exe
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\BusServer.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\MySql.Data.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\Google.Protobuf.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\Zstandard.Net.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\Renci.SshNet.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\System.Buffers.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\bin\Debug\MySql.Data.xml
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\BusServer.csprojAssemblyReference.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\BusServer.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\CardGame.ServerForm.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\BusServer.Properties.Resources.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\BusServer.csproj.GenerateResource.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\BusServer.csproj.CoreCompileInputs.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\BusServer.csproj.CopyComplete
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\BusServer.exe
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusServer\obj\Debug\BusServer.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\BusServer.csprojAssemblyReference.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\BusServer.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\CardGame.ServerForm.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\BusServer.Properties.Resources.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\BusServer.csproj.GenerateResource.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\BusServer.csproj.CoreCompileInputs.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\BusServer.exe
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\BusServer.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\BusServer.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\BusServer.exe
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\BusServer.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\MySql.Data.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\Google.Protobuf.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\Zstandard.Net.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\Renci.SshNet.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\System.Buffers.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\bin\Debug\MySql.Data.xml
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusServer\obj\Debug\BusServer.csproj.CopyComplete
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\BusServer.exe.config
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\BusServer.exe
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\MySql.Data.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\Google.Protobuf.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\Zstandard.Net.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\Renci.SshNet.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\System.Memory.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\System.Buffers.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\MySql.Data.xml
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\obj\Debug\BusServer.exe.config
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\obj\Debug\CardGame.ServerForm.resources
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\obj\Debug\BusServer.Properties.Resources.resources
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\obj\Debug\BusServer.csproj.GenerateResource.cache
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\obj\Debug\BusServer.csproj.CoreCompileInputs.cache
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\obj\Debug\BusServer.csproj.CopyComplete
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\obj\Debug\BusServer.exe
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\obj\Debug\BusServer.pdb
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusServer\bin\Debug\BusServer.pdb
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\BusServer.exe.config
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\BusServer.exe
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\BusServer.pdb
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\MySql.Data.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\Google.Protobuf.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\Zstandard.Net.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\Renci.SshNet.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\System.Buffers.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\bin\Debug\MySql.Data.xml
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\BusServer.csprojAssemblyReference.cache
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\BusServer.exe.config
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\CardGame.ServerForm.resources
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\BusServer.Properties.Resources.resources
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\BusServer.csproj.GenerateResource.cache
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\BusServer.csproj.CoreCompileInputs.cache
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\BusServer.csproj.CopyComplete
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\BusServer.exe
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusServer\obj\Debug\BusServer.pdb

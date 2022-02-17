@@ -1,0 +1,51 @@
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\bin\Debug\BusManager.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\bin\Debug\BusManager.exe
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\bin\Debug\BusManager.pdb
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\obj\Debug\BusManager.csprojAssemblyReference.cache
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\obj\Debug\BusManager.Properties.Resources.resources
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\obj\Debug\BusManager.csproj.GenerateResource.cache
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\obj\Debug\BusManager.csproj.CoreCompileInputs.cache
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\obj\Debug\BusManager.exe
+C:\Users\JGH\source\repos\BusSeatReservation\BusManager\obj\Debug\BusManager.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\bin\Debug\BusManager.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\bin\Debug\BusManager.exe
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\bin\Debug\BusManager.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\obj\Debug\BusManager.csprojAssemblyReference.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\obj\Debug\BusManager.MainForm.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\obj\Debug\BusManager.Properties.Resources.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\obj\Debug\BusManager.csproj.GenerateResource.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\obj\Debug\BusManager.csproj.CoreCompileInputs.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\obj\Debug\BusManager.exe
+C:\Users\JGH\source\repos\BusSeatReservation_v2\BusManager\obj\Debug\BusManager.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\bin\Debug\BusManager.exe.config
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\bin\Debug\BusManager.exe
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\bin\Debug\BusManager.pdb
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\obj\Debug\BusManager.csprojAssemblyReference.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\obj\Debug\BusManager.MainForm.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\obj\Debug\BusManager.Properties.Resources.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\obj\Debug\BusManager.RegisterForm.resources
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\obj\Debug\BusManager.csproj.GenerateResource.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\obj\Debug\BusManager.csproj.CoreCompileInputs.cache
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\obj\Debug\BusManager.exe
+C:\Users\JGH\source\repos\BusSeatReservation_v3\BusManager\obj\Debug\BusManager.pdb
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\bin\Debug\BusManager.exe.config
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\bin\Debug\BusManager.exe
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\obj\Debug\BusManager.MainForm.resources
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\obj\Debug\BusManager.Properties.Resources.resources
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\obj\Debug\BusManager.RegisterForm.resources
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\obj\Debug\BusManager.csproj.GenerateResource.cache
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\obj\Debug\BusManager.csproj.CoreCompileInputs.cache
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\obj\Debug\BusManager.exe
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\obj\Debug\BusManager.pdb
+C:\Users\carst\Documents\카카오톡 받은 파일\BusSeatReservation_v4\BusManager\bin\Debug\BusManager.pdb
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\bin\Debug\BusManager.exe.config
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\bin\Debug\BusManager.exe
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\bin\Debug\BusManager.pdb
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\obj\Debug\BusManager.csprojAssemblyReference.cache
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\obj\Debug\BusManager.MainForm.resources
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\obj\Debug\BusManager.Properties.Resources.resources
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\obj\Debug\BusManager.RegisterForm.resources
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\obj\Debug\BusManager.csproj.GenerateResource.cache
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\obj\Debug\BusManager.csproj.CoreCompileInputs.cache
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\obj\Debug\BusManager.exe
+C:\Users\JGH\Desktop\BusSeatReservation_final\BusManager\obj\Debug\BusManager.pdb

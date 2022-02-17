@@ -1,0 +1,11 @@
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\bin\Release\BusManager.exe.config
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\bin\Release\BusManager.exe
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\bin\Release\BusManager.pdb
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\obj\Release\BusManager.csprojAssemblyReference.cache
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\obj\Release\BusManager.MainForm.resources
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\obj\Release\BusManager.Properties.Resources.resources
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\obj\Release\BusManager.RegisterForm.resources
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\obj\Release\BusManager.csproj.GenerateResource.cache
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\obj\Release\BusManager.csproj.CoreCompileInputs.cache
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\obj\Release\BusManager.exe
+C:\Users\JGH\Documents\카카오톡 받은 파일\BUSSEA~3\BusManager\obj\Release\BusManager.pdb
